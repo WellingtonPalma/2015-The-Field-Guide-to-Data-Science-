@@ -46,7 +46,7 @@ Data Science is required to maintain competitiveness in the increasingly data -r
 
 <img src="./media/image5.png" width="900" height="550" />
 
-<img src="./media/image6.jpeg" width="816" height="1056" />
+<img src="./media/image6.jpeg" width="900" height="1056" />
 
 **What is Different Now?**
 

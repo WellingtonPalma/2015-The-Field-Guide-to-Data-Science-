@@ -1,10 +1,10 @@
-**What Does it Take to Create a Data Science Capability?**
+#**What Does it Take to Create a Data Science Capability?**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Data Science is all about building teams and culture.
+##Data Science is all about building teams and culture.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Many organizations (both commercial and government) see the potential in capitalizing on data to unlock operational efficiencies, to create new services and experiences, and to propel innovation. Unfortunately, too many business leaders invest in one-off technical solutions— with a big price tag and mixed results— instead of investing in building a strategic Data Science capability. A Data Science capability embeds and operationalizes Data Science across an enterprise such that it can deliver the next level of organizational performance and return on investment. A Data Science capability moves an organization beyond performing pockets of analytics to an enterprise approach that uses analytical insights as part of the normal course of business. When building a capability, it is important for an organization to first identify its analytic goals (i.e., what it is trying to achieve through analytics) and then assess its readiness to achieve those goals – examining both technical readiness and organizational readiness. An organization can then make strategic choices on how to address gaps and begin to build their capability.
 
@@ -18,9 +18,12 @@ A critical component to any Data Science capability is having the right team. Da
 
 **Understanding What Makes a Data Scientist**
 
-<img src="./media/image3.png" width="220" height="485" />Data Science often requires a significant investment of time across a variety of tasks. Hypotheses must be generated and data must be acquired, prepared, analyzed, and acted upon. Multiple techniques are often applied before one yields interesting results. If that seems daunting, it is because it is. Data Science is difficult, intellectually taxing work, which requires lots of talent: both tangible technical skills as well as the intangible “x-factors.”
 
-<img src="./media/image4.png" width="462" height="531" />There are four independent yet comprehensive foundational Data Science competency clusters that, when considered together, convey the essence of what it means to be a successful Data Scientist. There are also reach back competencies that complement the foundational clusters but do not define the core tradecraft or attributes of the Data Science team.
+Data Science often requires a significant investment of time across a variety of tasks. Hypotheses must be generated and data must be acquired, prepared, analyzed, and acted upon. Multiple techniques are often applied before one yields interesting results. If that seems daunting, it is because it is. Data Science is difficult, intellectually taxing work, which requires lots of talent: both tangible technical skills as well as the intangible “x-factors.”
+
+There are four independent yet comprehensive foundational Data Science competency clusters that, when considered together, convey the essence of what it means to be a successful Data Scientist. There are also reach back competencies that complement the foundational clusters but do not define the core tradecraft or attributes of the Data Science team.
+
+<img src="./media/image4.png" width="462" height="531" />   <img src="./media/image3.png" width="220" height="485" />
 
 The most important qualities of Data Scientists tend to be the intangible aspects of their personalities. Data Scientists are by nature curious, creative, focused, and detail-oriented.
 

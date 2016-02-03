@@ -30,7 +30,7 @@ But as mentioned earlier, this first activity is heavily dependent upon the situ
 
 <img src="./media/image2.png" width="200" height="398" />
 
-1.  **Prepare**
+2.  **Prepare**
 
 Once you have the data, you need to prepare it for analysis.
 

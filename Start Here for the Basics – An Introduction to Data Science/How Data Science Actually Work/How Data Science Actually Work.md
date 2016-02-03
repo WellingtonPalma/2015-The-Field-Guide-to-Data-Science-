@@ -1,4 +1,4 @@
-**How does Data Science Actually Work?**
+#*How does Data Science Actually Work?*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10,7 +10,7 @@ Let’s not kid ourselves - Data Science is a complex field. It is difficult, in
 
 To do this, we will transform the field of Data Science into a set of simplified activities as shown in the figure, The Four Key Activities of a Data Science Endeavor. Data Science purists will likely disagree with this approach, but then again, they probably don’t need a field guide, sitting as they do in their ivory towers! In the real world, we need clear and simple operating models to help drive us forward.
 
-<img src="./media/image1.png" width="624" height="881" />
+<img src="./media/image1.png" width="900" height="881" />
 
 1.  **Acquire**
 
@@ -22,13 +22,17 @@ Eliminating the need for silos gives us access to all the data at once – inclu
 
 But as mentioned earlier, this first activity is heavily dependent upon the situation and circumstances. We can’t leave you with anything more than general guidance to help ensure maximum value:
 
--   <img src="./media/image2.png" width="231" height="377" />**Look inside first:** What data do you have current access to that you are not using? This is in large part the data being left behind by the filtering process, and may be incredibly valuable.
+-   **Look inside first:** What data do you have current access to that you are not using? This is in large part the data being left behind by the filtering process, and may be incredibly valuable.
 
 -   **Remove the format constraints:** Stop limiting your data acquisition mindset to the realm of structured databases. Instead, think about unstructured and semi-structured data as viable sources.
 
 -   **Figure out what’s missing:** Ask yourself what data would make a big difference to your processes if you had access to it. Then go find it!
 
 -   **Embrace diversity:** Try to engage and connect to publicly available sources of data that may have relevance to your domain area.
+
+
+<img src="./media/image2.png" width="231" height="377" />
+
 
 1.  **Prepare**
 

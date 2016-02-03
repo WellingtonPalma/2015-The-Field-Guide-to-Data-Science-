@@ -27,7 +27,7 @@ There are four independent yet comprehensive foundational Data Science competenc
 
 The most important qualities of Data Scientists tend to be the intangible aspects of their personalities. Data Scientists are by nature curious, creative, focused, and detail-oriented.
 
--   <img src="./media/image5.png" width="166" height="771" />***Curiosity*** is necessary to peel apart a problem and examine the interrelationships between data that may appear superficially unrelated.
+-   ***Curiosity*** is necessary to peel apart a problem and examine the interrelationships between data that may appear superficially unrelated.
 
 -   ***Creativity*** is required to invent and try new approaches to solving a problem, which often times have never been applied in such a context before.
 
@@ -35,15 +35,23 @@ The most important qualities of Data Scientists tend to be the intangible aspect
 
 -   ***Attention*** to Detail is needed to maintain rigor, and to detect and avoid over-reliance on intuition when examining data.
 
+
 We have found the single most important attribute is flexibility in overcoming setbacks - the willingness to abandon one idea and try a new approach. Often, Data Science is a series of dead ends before, at last, the way forward is identified. It requires a unique set of personality attributes to succeed in such an environment. Technical skills can be developed over time: the ability to be flexible – and patient, and persistent – cannot.
+
+<img src="./media/image5.png" width="166" height="771" />
+
 
 **Finding the Athletes for Your Team**
 
 Building a Data Science team is complex. Organizations must simultaneously engage existing internal staff to create an “anchor” who can be used to recruit and grow the team, while at the same time undergo organizational change and transformation to meaningfully incorporate this new class of employee. Building a team starts with identifying existing staff within an organization who have a high aptitude for Data Science. Good candidates will have a formal background in any of the three foundational technical skills we mentioned, and will most importantly have the personality traits necessary for Data Science. They may often have advanced (masters or higher) degrees, but not always. The very first staff you identify should also have good leadership traits and a sense of purpose for the organization, as they will lead subsequent staffing and recruiting efforts. Don’t discount anyone – you will find Data Scientists in the strangest places with the oddest combinations of backgrounds.
 
+
+<img src="./media/image6.png" width="197" height="365" />
+
+
 **Shaping the Culture**
 
-<img src="./media/image6.png" width="197" height="365" />It is no surprise—building a culture is hard and there is just as much art to it as there is science. It is about deliberately creating the conditions for Data Science to flourish (for both Data Scientists and the average employee). You can then step back to empower collective ownership of an organic transformation.
+It is no surprise—building a culture is hard and there is just as much art to it as there is science. It is about deliberately creating the conditions for Data Science to flourish (for both Data Scientists and the average employee). You can then step back to empower collective ownership of an organic transformation.
 
 Data Scientists are fundamentally curious and imaginative. We have a saying on our team, “We’re not nosy, we’re Data Scientists.” These qualities are fundamental to the success of the project and to gaining new dimensions on challenges and questions. Often Data Science projects are hampered by the lack of the ability to imagine something new and different. Fundamentally, organizations must foster trust and transparent communication across all levels, instead of deference to authority, in order to establish a strong Data Science team. Managers should be prepared to invite participation more frequently, and offer explanation or apology less frequently.
 
@@ -53,7 +61,7 @@ It is important to provide a path into the Data Science “club” and to empowe
 
 Depending on the size, complexity, and the business drivers, organizations should consider one of three Data Science operating models: Centralized, Deployed, or Diffused. These three models are shown in the figure, Data Science Operating Models.
 
-<img src="./media/image7.png" width="623" height="169" />
+<img src="./media/image7.png" width="900" height="169" />
 
 ***Centralized Data Science*** teams serve the organization across all business units. The team is centralized under a Chief Data Scientist and they all co-locate together. The domain experts come to this organization for brief rotational stints to solve challenges around the business. This model provides greater efficiency with limited Data Science resources but can also create the perceived need to compete with other business units for Data Science talent. To address this challenge, it is important to place emphasis on portfolio management and creating transparency on how organizations will identify and select Data Science projects.
 
@@ -75,4 +83,4 @@ A Data Science effort can start at the grass roots level by a few folks tackling
 
 4.  ***Limited Complexity and Duration:*** The problem addressed by the prototype should achieve a balance between being too complex and too easy. Organizations new to Data Science often try to show its value with highly complex projects. However, the greater the complexity, the greater the risk of failure. At the same time, if the problem is too easy to solve, senior leaders and others in the organization may not see the need for Data Science. Look for efforts that could benefit from large datasets, or bringing together disparate datasets that have never been combined before, as opposed to those that require complex analytic approaches. In these cases, there is often low-hanging fruit that can lead to significant value for the organization.
 
-<img src="./media/image8.jpeg" width="819" height="1056" />
+<img src="./media/image8.jpeg" width="900" height="1100" />

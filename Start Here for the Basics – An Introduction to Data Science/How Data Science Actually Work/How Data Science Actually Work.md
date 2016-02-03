@@ -84,7 +84,7 @@ The four activities discussed thus far provide a simplified view of Data Science
 
 Assessing the maturity of your Data Science capability calls for a slightly different view. We use The Data Science Maturity Model as a common framework for describing the maturity progression and components that make up a Data Science capability. This framework can be applied to an organization’s Data Science capability or even to the maturity of a specific solution, namely a data product. At each stage of maturity, powerful insight can be gained.
 
-<img src="./media/image5.png" width="624" height="573" />
+<img src="./media/image5.png" width="900" height="573" />
 
 The Data Science Maturity Model
 
@@ -94,10 +94,10 @@ All of your initial effort will be focused on identifying and aggregating data. 
 
 Organizations continue to advance in maturity as they move through the stages from Describe to Advise. At each stage they can tackle increasingly complex analytic goals with a wider breadth of analytic capabilities. As described for Collect, each stage never goes away entirely. Instead, the proportion of time spent focused on it goes down and new, more mature activities begin. A brief description of each stage of maturity is shown in the table The Stages of Data Science Maturity.
 
-<img src="./media/image6.png" width="628" height="507" />
+<img src="./media/image6.png" width="900" height="507" />
 
 The maturity model provides a powerful tool for understanding and appreciating the maturity of a Data Science capability. Organizations need not reach maximum maturity to achieve success. Significant gains can be found in every stage. We believe strongly that one does not engage in a Data Science effort, however, unless it is intended to produce an output – that is, you have the intent to Advise. This means simply that each step forward in maturity drives you to the right in the model diagram. Moving to the right requires the correct processes, people, culture and operating model – a robust Data Science capability. What Does it Take to Create a Data Science Capability? addresses this topic.
 
 We have observed very few organizations actually operating at the highest levels of maturity, the Predict and Advise stages. The tradecraft of Discover is only now maturing to the point that organizations can focus on advanced Predict and Advise activities. This is the new frontier of Data Science. This is the space in which we will begin to understand how to close the cognitive gap between humans and computers. Organizations that reach Advise will be met with true insights and real competitive advantage.
 
-<img src="./media/image7.png" width="309" height="888" />
+<img src="./media/image7.png" width="350" height="900" />

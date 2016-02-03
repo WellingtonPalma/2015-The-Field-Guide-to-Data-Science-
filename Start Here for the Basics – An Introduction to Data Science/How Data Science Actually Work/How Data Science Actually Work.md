@@ -85,8 +85,7 @@ The four activities discussed thus far provide a simplified view of Data Science
 Assessing the maturity of your Data Science capability calls for a slightly different view. We use The Data Science Maturity Model as a common framework for describing the maturity progression and components that make up a Data Science capability. This framework can be applied to an organization’s Data Science capability or even to the maturity of a specific solution, namely a data product. At each stage of maturity, powerful insight can be gained.
 
 <img src="./media/image5.png" width="900" height="573" />
-
-The Data Science Maturity Model
+                                            **The Data Science Maturity Model**
 
 When organizations start out, they have Data Silos. At this stage, they have not carried out any broad Aggregate activities. They may not have a sense of all the data they have or the data they need. The decision to create a Data Science capability signals the transition into the Collect stage.
 

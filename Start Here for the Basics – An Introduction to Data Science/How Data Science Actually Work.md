@@ -6,7 +6,7 @@ Let’s not kid ourselves - Data Science is a complex field. It is difficult, in
 
 To do this, we will transform the field of Data Science into a set of simplified activities as shown in the figure, The Four Key Activities of a Data Science Endeavor. Data Science purists will likely disagree with this approach, but then again, they probably don’t need a field guide, sitting as they do in their ivory towers! In the real world, we need clear and simple operating models to help drive us forward.
 
-<img src="./media/image1.png" width="624" height="535" />
+<img src="./media/image8.png" width="624" height="535" />
 
 **The Four Key Activities of a Data Science Endeavor**
 

@@ -31,10 +31,10 @@ But as mentioned earlier, this first activity is heavily dependent upon the situ
 -   **Embrace diversity:** Try to engage and connect to publicly available sources of data that may have relevance to your domain area.
 
 
-<img src="./media/image2.png" width="231" height="377" />
+<img src="./media/image2.png" width="300" height="400" />
 
 
-1.  **Prepare**
+2.  **Prepare**
 
 Once you have the data, you need to prepare it for analysis.
 
@@ -44,7 +44,7 @@ When Data Scientists are able to explore and analyze all the data, new opportuni
 
 Our experience shows time and time again that the best tool for Data Scientists to prepare for analysis is a lake – specifically, the Data Lake. \[11\] This is a new approach to collecting, storing and integrating data that helps organizations maximize the utility of their data. Instead of storing information in discrete data structures, the Data Lake consolidates an organization’s complete repository of data in a single, large view. It eliminates the expensive and cumbersome data-preparation process, known as Extract/Transform/Load (ETL), necessary with data silos. The entire body of information in the Data Lake is available for every inquiry – and all at once.
 
-1.  **Analyze**
+3.  **Analyze**
 
 We have acquired the data… we have prepared it… now it is time to analyze it.
 
@@ -52,13 +52,15 @@ The Analyze activity requires the greatest effort of all the activities in a Dat
 
 With the totality of data fully accessible in the Data Lake, organizations can use analytics to find the kinds of connections and patterns that point to promising opportunities. This high-speed analytic connection is done within the Data Lake, as opposed to older style sampling methods that could only make use of a narrow slice of the data. In order to understand what was in the lake, you had to bring the data out and study it. Now you can dive into the lake, bringing your analytics to the data. The figure, Analytic Connection in the Data Lake, highlights the concept of diving into the Data Lake to discover new connections and patterns.
 
-<img src="./media/image3.png" width="621" height="442" />
+
+<img src="./media/image3.png" width="900" height="500" />
+
 
 Data Scientists work across the spectrum of analytic goals – Describe, Discover, Predict and Advise. The maturity of an analytic capability determines the analytic goals encompassed. Many variables play key roles in determining the difficulty and suitability of each goal for an organization. Some of these variables are the size and budget of an organization and the type of data products needed by the decision makers. A detailed discussion on analytic maturity can be found in Data Science Maturity within an Organization.
 
 In addition to consuming the greatest effort, the Analyze activity is by far the most complex. The tradecraft of Data Science is an art. While we cannot teach you how to be an artist, we can share foundational tools and techniques that can help you be successful. The entirety of Take Off the Training Wheels is dedicated to sharing insights we have learned over time while serving countless clients. This includes descriptions of a Data Science product lifecycle and the Fractal Analytic Model (FAM). The Analytic Selection Process and accompanying Guide to Analytic Selection provide key insights into one of the most challenging tasks in all of Data Science – selecting the right technique for the job.
 
-1.  **Act **
+4.  **Act **
 
 Now that we have analyzed the data, it’s time to take action.
 
@@ -74,7 +76,7 @@ The ability to make use of the analysis is critical. It is also very situational
 
 5.  The findings must answer real business questions.
 
-    <img src="./media/image4.jpeg" width="815" height="1114" />
+    <img src="./media/image4.jpeg" width="900" height="1114" />
 
 **Data Science Maturity within an Organization**
 

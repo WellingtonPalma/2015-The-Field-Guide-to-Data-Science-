@@ -60,7 +60,7 @@ Data Scientists work across the spectrum of analytic goals – Describe, Discove
 
 In addition to consuming the greatest effort, the Analyze activity is by far the most complex. The tradecraft of Data Science is an art. While we cannot teach you how to be an artist, we can share foundational tools and techniques that can help you be successful. The entirety of Take Off the Training Wheels is dedicated to sharing insights we have learned over time while serving countless clients. This includes descriptions of a Data Science product lifecycle and the Fractal Analytic Model (FAM). The Analytic Selection Process and accompanying Guide to Analytic Selection provide key insights into one of the most challenging tasks in all of Data Science – selecting the right technique for the job.
 
-4.**Act **
+4.**Act**
 
 Now that we have analyzed the data, it’s time to take action.
 

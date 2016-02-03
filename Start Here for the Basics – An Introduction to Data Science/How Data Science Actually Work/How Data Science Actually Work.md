@@ -12,7 +12,7 @@ To do this, we will transform the field of Data Science into a set of simplified
 
 <img src="./media/image1.png" width="900" height="881" />
 
-1.  **Acquire**
+1.**Acquire**
 
 All analysis starts with access to data, and for the Data Scientist this axiom holds true. But there are some significant differences – particularly with respect to the question of who stores, maintains and owns the data in an organization.
 
@@ -34,7 +34,7 @@ But as mentioned earlier, this first activity is heavily dependent upon the situ
 <img src="./media/image2.png" width="300" height="400" />
 
 
-2.  **Prepare**
+2.**Prepare**
 
 Once you have the data, you need to prepare it for analysis.
 
@@ -44,7 +44,7 @@ When Data Scientists are able to explore and analyze all the data, new opportuni
 
 Our experience shows time and time again that the best tool for Data Scientists to prepare for analysis is a lake – specifically, the Data Lake. \[11\] This is a new approach to collecting, storing and integrating data that helps organizations maximize the utility of their data. Instead of storing information in discrete data structures, the Data Lake consolidates an organization’s complete repository of data in a single, large view. It eliminates the expensive and cumbersome data-preparation process, known as Extract/Transform/Load (ETL), necessary with data silos. The entire body of information in the Data Lake is available for every inquiry – and all at once.
 
-3.  **Analyze**
+3.**Analyze**
 
 We have acquired the data… we have prepared it… now it is time to analyze it.
 
@@ -60,7 +60,7 @@ Data Scientists work across the spectrum of analytic goals – Describe, Discove
 
 In addition to consuming the greatest effort, the Analyze activity is by far the most complex. The tradecraft of Data Science is an art. While we cannot teach you how to be an artist, we can share foundational tools and techniques that can help you be successful. The entirety of Take Off the Training Wheels is dedicated to sharing insights we have learned over time while serving countless clients. This includes descriptions of a Data Science product lifecycle and the Fractal Analytic Model (FAM). The Analytic Selection Process and accompanying Guide to Analytic Selection provide key insights into one of the most challenging tasks in all of Data Science – selecting the right technique for the job.
 
-4.  **Act **
+4.**Act **
 
 Now that we have analyzed the data, it’s time to take action.
 

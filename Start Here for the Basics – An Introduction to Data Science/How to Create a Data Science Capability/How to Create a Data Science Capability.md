@@ -61,7 +61,7 @@ It is important to provide a path into the Data Science “club” and to empowe
 
 Depending on the size, complexity, and the business drivers, organizations should consider one of three Data Science operating models: Centralized, Deployed, or Diffused. These three models are shown in the figure, Data Science Operating Models.
 
-<img src="./media/image7.png" width="900" height="169" />
+<img src="./media/image7.png" width="900" height="300" />
 
 ***Centralized Data Science*** teams serve the organization across all business units. The team is centralized under a Chief Data Scientist and they all co-locate together. The domain experts come to this organization for brief rotational stints to solve challenges around the business. This model provides greater efficiency with limited Data Science resources but can also create the perceived need to compete with other business units for Data Science talent. To address this challenge, it is important to place emphasis on portfolio management and creating transparency on how organizations will identify and select Data Science projects.
 

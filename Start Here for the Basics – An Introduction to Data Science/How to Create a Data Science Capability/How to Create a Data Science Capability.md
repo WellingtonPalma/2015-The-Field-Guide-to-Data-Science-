@@ -1,10 +1,10 @@
 #**What Does it Take to Create a Data Science Capability?**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ##Data Science is all about building teams and culture.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Many organizations (both commercial and government) see the potential in capitalizing on data to unlock operational efficiencies, to create new services and experiences, and to propel innovation. Unfortunately, too many business leaders invest in one-off technical solutions— with a big price tag and mixed results— instead of investing in building a strategic Data Science capability. A Data Science capability embeds and operationalizes Data Science across an enterprise such that it can deliver the next level of organizational performance and return on investment. A Data Science capability moves an organization beyond performing pockets of analytics to an enterprise approach that uses analytical insights as part of the normal course of business. When building a capability, it is important for an organization to first identify its analytic goals (i.e., what it is trying to achieve through analytics) and then assess its readiness to achieve those goals – examining both technical readiness and organizational readiness. An organization can then make strategic choices on how to address gaps and begin to build their capability.
 
